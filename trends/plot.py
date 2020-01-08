@@ -66,7 +66,7 @@ def add_legend(df, ax=None):
     if ax is None:
         ax = plt.gca()
 
-    Δt = np.mean(df.index[1:] - df.index[:-1]) / np.timedelta64(1, 's')
+    Δt = (df.index[1:] - df.index[:-1]).mean() / np.timedelta64(1, 's')
     mapping, transmat = compute_transition_matrix(df.state)
 
     palette = sns.husl_palette(df.state.max(), l=0.7, s=.9)
