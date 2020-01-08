@@ -17,12 +17,10 @@ You can run the notebooks on Google Colab by following the links at the top, or 
 ```bash
 git clone https://github.com/maxmouchet/atlas-trends-demo.git
 cd atlas-trends-demo
-pipenv sync
-pipenv run jupyter lab
+
+python3 -m venv trends-env; source trends-env/bin/activate
+pip install -r requirements.txt
+
+jupyter lab
 ```
 
-This requires Python 3 and [pipenv](https://pipenv.readthedocs.io/en/latest/), which can be installed using
-
-```bash
-pip install --user pipenv # Or pip3 depending on your Python setup
-```
