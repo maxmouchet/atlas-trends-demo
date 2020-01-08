@@ -1,5 +1,7 @@
 # Atlas Trends API demonstration
 
+![Example Segmentation](segmentation.png)
+
 ## Introduction
 
 The Atlas Trends API is an implementation of a novel method to cluster RTT time series using nonparametric Bayesian models. The API allows producing humanlike segmentation of [RIPE Atlas](http://atlas.ripe.net/) RTT time series.
