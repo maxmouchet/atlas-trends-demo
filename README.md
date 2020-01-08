@@ -10,6 +10,19 @@ Name | Description | Online Notebook
 :----|:------------|:-----------------
 Atlas Trends API | Overview of the API | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxmouchet/atlas-trends-demo/blob/master/notebooks/Atlas%20Trends%20API.ipynb)
 
+## Citation
+
+Mouchet, M., Vaton, S., Chonavel, T., Aben, E., & Hertog, J. D. (2019). Large-Scale Characterization and Segmentation of Internet Path Delays with Infinite HMMs. [_arXiv preprint arXiv:1910.12714_](https://arxiv.org/abs/1910.12714).
+
+```bibtex
+@article{mouchet2019large,
+  title={Large-Scale Characterization and Segmentation of Internet Path Delays with Infinite HMMs},
+  author={Mouchet, Maxime and Vaton, Sandrine and Chonavel, Thierry and Aben, Emile and Hertog, Jasper den},
+  journal={arXiv preprint arXiv:1910.12714},
+  year={2019}
+}
+```
+
 ## Getting Started
 
 You can run the notebooks on Google Colab by following the links at the top, or locally by running the following in a terminal:
