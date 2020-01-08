@@ -30,10 +30,7 @@ You can run the notebooks on Google Colab by following the links at the top, or 
 ```bash
 git clone https://github.com/maxmouchet/atlas-trends-demo.git
 cd atlas-trends-demo
-
 python3 -m venv trends-env; source trends-env/bin/activate
 pip install -r requirements.txt
-
 jupyter lab
 ```
-
