@@ -14,14 +14,18 @@ Atlas Trends API | Overview of the API | [![Open In Colab](https://colab.researc
 
 ## Citation
 
-Mouchet, M., Vaton, S., Chonavel, T., Aben, E., & Hertog, J. D. (2019). Large-Scale Characterization and Segmentation of Internet Path Delays with Infinite HMMs. [_arXiv preprint arXiv:1910.12714_](https://arxiv.org/abs/1910.12714).
+M. Mouchet, S. Vaton, T. Chonavel, E. Aben and J. D. Hertog, "Large-Scale Characterization and Segmentation of Internet Path Delays With Infinite HMMs," in [_IEEE Access_](https://ieeexplore.ieee.org/document/8964300), vol. 8, pp. 16771-16784, 2020.
 
 ```bibtex
 @article{mouchet2019large,
-  title={Large-Scale Characterization and Segmentation of Internet Path Delays with Infinite HMMs},
-  author={Mouchet, Maxime and Vaton, Sandrine and Chonavel, Thierry and Aben, Emile and Hertog, Jasper den},
-  journal={arXiv preprint arXiv:1910.12714},
-  year={2019}
+  author={M. {Mouchet} and S. {Vaton} and T. {Chonavel} and E. {Aben} and J. {Den Hertog}},
+  journal={IEEE Access},
+  title={Large-Scale Characterization and Segmentation of Internet Path Delays With Infinite HMMs},
+  year={2020},
+  volume={8},
+  pages={16771-16784},
+  doi={10.1109/ACCESS.2020.2968380},
+  ISSN={2169-3536}
 }
 ```
 
